@@ -1,0 +1,27 @@
+c:\users\cengu\documents\visual studio 2012\Projects\Araç Parça Takip\Araç Parça Takip\bin\Debug\Araç Parça Takip.exe.config
+c:\users\cengu\documents\visual studio 2012\Projects\Araç Parça Takip\Araç Parça Takip\bin\Debug\Araç Parça Takip.exe
+c:\users\cengu\documents\visual studio 2012\Projects\Araç Parça Takip\Araç Parça Takip\bin\Debug\Araç Parça Takip.pdb
+c:\users\cengu\documents\visual studio 2012\Projects\Araç Parça Takip\Araç Parça Takip\obj\Debug\Araç_Parça_Takip.listeleme.resources
+c:\users\cengu\documents\visual studio 2012\Projects\Araç Parça Takip\Araç Parça Takip\obj\Debug\Araç_Parça_Takip.Properties.Resources.resources
+c:\users\cengu\documents\visual studio 2012\Projects\Araç Parça Takip\Araç Parça Takip\obj\Debug\Araç Parça Takip.csproj.GenerateResource.Cache
+c:\users\cengu\documents\visual studio 2012\Projects\Araç Parça Takip\Araç Parça Takip\obj\Debug\Araç Parça Takip.exe
+c:\users\cengu\documents\visual studio 2012\Projects\Araç Parça Takip\Araç Parça Takip\obj\Debug\Araç Parça Takip.pdb
+c:\users\cengu\documents\visual studio 2012\Projects\Araç Parça Takip\Araç Parça Takip\obj\Debug\Araç_Parça_Takip.ekleme.resources
+C:\Users\Cengu\documents\visual studio 2012\Projects\Araç Parça Takip\Araç Parça Takip\obj\Debug\Araç_Parça_Takip.guncelle.resources
+C:\Users\Cengu\documents\visual studio 2012\Projects\Araç Parça Takip\Araç Parça Takip\obj\Debug\Araç Parça Takip.csprojResolveAssemblyReference.cache
+C:\Users\Cengu\documents\visual studio 2012\Projects\Araç Parça Takip\Araç Parça Takip\obj\Debug\Araç_Parça_Takip.sil.resources
+C:\Users\Cengu\documents\visual studio 2012\Projects\Araç Parça Takip\Araç Parça Takip\obj\Debug\Araç_Parça_Takip.stoklistele.resources
+E:\YEDEK\BEN\vs 2012 projeler\Araç Parça Takip\Araç Parça Takip\bin\Debug\Araç Parça Takip.exe.config
+E:\YEDEK\BEN\vs 2012 projeler\Araç Parça Takip\Araç Parça Takip\bin\Debug\Araç Parça Takip.exe
+E:\YEDEK\BEN\vs 2012 projeler\Araç Parça Takip\Araç Parça Takip\bin\Debug\Araç Parça Takip.pdb
+E:\YEDEK\BEN\vs 2012 projeler\Araç Parça Takip\Araç Parça Takip\obj\Debug\Araç Parça Takip.csproj.AssemblyReference.cache
+E:\YEDEK\BEN\vs 2012 projeler\Araç Parça Takip\Araç Parça Takip\obj\Debug\Araç_Parça_Takip.ekleme.resources
+E:\YEDEK\BEN\vs 2012 projeler\Araç Parça Takip\Araç Parça Takip\obj\Debug\Araç_Parça_Takip.guncelle.resources
+E:\YEDEK\BEN\vs 2012 projeler\Araç Parça Takip\Araç Parça Takip\obj\Debug\Araç_Parça_Takip.listeleme.resources
+E:\YEDEK\BEN\vs 2012 projeler\Araç Parça Takip\Araç Parça Takip\obj\Debug\Araç_Parça_Takip.Properties.Resources.resources
+E:\YEDEK\BEN\vs 2012 projeler\Araç Parça Takip\Araç Parça Takip\obj\Debug\Araç_Parça_Takip.sil.resources
+E:\YEDEK\BEN\vs 2012 projeler\Araç Parça Takip\Araç Parça Takip\obj\Debug\Araç_Parça_Takip.stoklistele.resources
+E:\YEDEK\BEN\vs 2012 projeler\Araç Parça Takip\Araç Parça Takip\obj\Debug\Araç Parça Takip.csproj.GenerateResource.cache
+E:\YEDEK\BEN\vs 2012 projeler\Araç Parça Takip\Araç Parça Takip\obj\Debug\Araç Parça Takip.csproj.CoreCompileInputs.cache
+E:\YEDEK\BEN\vs 2012 projeler\Araç Parça Takip\Araç Parça Takip\obj\Debug\Araç Parça Takip.exe
+E:\YEDEK\BEN\vs 2012 projeler\Araç Parça Takip\Araç Parça Takip\obj\Debug\Araç Parça Takip.pdb
